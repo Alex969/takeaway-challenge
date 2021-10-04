@@ -4,7 +4,7 @@ class Takeaway
   end
    
   def show_menu
-    menu.print
+    menu.return_menu
   end
 
   private
